@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Star Formation History | Joanna Sakowska</title>
+    <link>https://joannasakowska.github.io/tag/star-formation-history/</link>
+      <atom:link href="https://joannasakowska.github.io/tag/star-formation-history/index.xml" rel="self" type="application/rss+xml" />
+    <description>Star Formation History</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://joannasakowska.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Star Formation History</title>
+      <link>https://joannasakowska.github.io/tag/star-formation-history/</link>
+    </image>
+    
+    <item>
+      <title>The synchronized dance of the magellanic clouds&#39; star formation history</title>
+      <link>https://joannasakowska.github.io/publication/massana_2022/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://joannasakowska.github.io/publication/massana_2022/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature
+to enable visitors to import publication metadata into their reference
+management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt;
+button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Star Formation History of the Small Magellanic Cloud galaxy</title>
+      <link>https://joannasakowska.github.io/project/sfh/</link>
+      <pubDate>Wed, 27 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://joannasakowska.github.io/project/sfh/</guid>
+      <description>&lt;p&gt;I am working on the star formation history of the Small Magellanic Cloud galaxy using photometric data from the SMASH survey (Survey of the MAgellanic Stellar History).&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,7 +5,7 @@
     <link>https://joannasakowska.github.io/event/</link>
       <atom:link href="https://joannasakowska.github.io/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 30 Jun 2022 13:00:00 +0000</lastBuildDate>
     <image>
       <url>https://joannasakowska.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Recent &amp; Upcoming Talks</title>
@@ -13,10 +13,10 @@
     </image>
     
     <item>
-      <title>Example Talk</title>
-      <link>https://joannasakowska.github.io/talk/example-talk/</link>
-      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://joannasakowska.github.io/talk/example-talk/</guid>
+      <title>SMASHing the Small Magellanic Cloud- star formation history of the ‘shell’ structure</title>
+      <link>https://joannasakowska.github.io/talk/smashing-the-small-magellanic-cloud-star-formation-history-of-the-shell-structure/</link>
+      <pubDate>Thu, 30 Jun 2022 13:00:00 +0000</pubDate>
+      <guid>https://joannasakowska.github.io/talk/smashing-the-small-magellanic-cloud-star-formation-history-of-the-shell-structure/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -30,6 +30,22 @@
 &lt;/ul&gt;
 &lt;p&gt;Further event details, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>The Magellanic Clouds - Galactic cannibalism on our night sky</title>
+      <link>https://joannasakowska.github.io/talk/the-magellanic-clouds-galactic-cannibalism-on-our-night-sky/</link>
+      <pubDate>Thu, 23 Jun 2022 13:00:00 +0000</pubDate>
+      <guid>https://joannasakowska.github.io/talk/the-magellanic-clouds-galactic-cannibalism-on-our-night-sky/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Star Formation History of the 3D Small Magellanic Cloud</title>
+      <link>https://joannasakowska.github.io/talk/star-formation-history-of-the-3d-small-magellanic-cloud/</link>
+      <pubDate>Thu, 22 Jul 2021 13:00:00 +0000</pubDate>
+      <guid>https://joannasakowska.github.io/talk/star-formation-history-of-the-3d-small-magellanic-cloud/</guid>
+      <description></description>
     </item>
     
   </channel>
