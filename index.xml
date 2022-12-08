@@ -62,11 +62,20 @@ button to check out the example.
     </item>
     
     <item>
+      <title>Automatised search for low surface brightness galaxies</title>
+      <link>https://joannasakowska.github.io/project/lsbg/</link>
+      <pubDate>Wed, 27 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://joannasakowska.github.io/project/lsbg/</guid>
+      <description>&lt;p&gt;During my 2 month stay at the Institute of Astrophysics of the Canary Islands, I developed a pipeline to automatically search for and measure low surface brightness galaxies in the Stripe82 SDSS survey images.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Satellite galaxies of the Magellanic Clouds with DELVE</title>
       <link>https://joannasakowska.github.io/project/delvemc/</link>
       <pubDate>Wed, 27 Apr 2022 00:00:00 +0000</pubDate>
       <guid>https://joannasakowska.github.io/project/delvemc/</guid>
-      <description>&lt;p&gt;I am using a matched filter algorithm to search of satelite ultra-faint dwarf galaxies within the Magellanic Clouds using data from the DELVE survey.&lt;/p&gt;
+      <description>&lt;p&gt;I am leading an automatised search for stellar overdensities within the DELVE-MC catalogue, which covers the entire Magellanic Clouds and their peripheries. This could result in the discovery of new ultra-faint dwarf galaxies or star clusters.&lt;/p&gt;
 </description>
     </item>
     
