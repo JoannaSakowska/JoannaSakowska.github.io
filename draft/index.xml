@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DRAFTs | Joanna Sakowska</title>
+    <link>https://joannasakowska.github.io/draft/</link>
+      <atom:link href="https://joannasakowska.github.io/draft/index.xml" rel="self" type="application/rss+xml" />
+    <description>DRAFTs</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://joannasakowska.github.io/media/icon_hude20de9661a447c1e887f7aaef88854c_11184_512x512_fill_lanczos_center_3.png</url>
+      <title>DRAFTs</title>
+      <link>https://joannasakowska.github.io/draft/</link>
+    </image>
+    
+    <item>
+      <title>Star Formation History of the Small Magellanic Cloud&#39;s &#39;Shell&#39; substructure (in prep)</title>
+      <link>https://joannasakowska.github.io/draft/sakowska_2023_preprint/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://joannasakowska.github.io/draft/sakowska_2023_preprint/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

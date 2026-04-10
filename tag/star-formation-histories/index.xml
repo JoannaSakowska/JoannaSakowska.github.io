@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>star formation histories | Joanna Sakowska</title>
+    <link>https://joannasakowska.github.io/tag/star-formation-histories/</link>
+      <atom:link href="https://joannasakowska.github.io/tag/star-formation-histories/index.xml" rel="self" type="application/rss+xml" />
+    <description>star formation histories</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://joannasakowska.github.io/media/icon_hude20de9661a447c1e887f7aaef88854c_11184_512x512_fill_lanczos_center_3.png</url>
+      <title>star formation histories</title>
+      <link>https://joannasakowska.github.io/tag/star-formation-histories/</link>
+    </image>
+    
+    <item>
+      <title>Unveiling the purely young star formation history of the SMC&#39;s northeastern shell from colour-magnitude diagram fitting</title>
+      <link>https://joannasakowska.github.io/publication/sakowska_2024/</link>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://joannasakowska.github.io/publication/sakowska_2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Star Formation History of the Magellanic Cloud galaxies</title>
+      <link>https://joannasakowska.github.io/project/sfh/</link>
+      <pubDate>Wed, 27 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://joannasakowska.github.io/project/sfh/</guid>
+      <description>&lt;p&gt;Visible with the naked eye, the Magellanic Cloud galaxies are our closest pair of interacting dwarf galaxies. Thus, they constitute a unique opportunity to study galactic evolution in precious detail.&lt;/p&gt;
+&lt;p&gt;During my PhD thesis (&lt;a href=&#34;https://openresearch.surrey.ac.uk/esploro/outputs/doctoral/Tracing-the-Structure-and-Evolutionary-History/99918066602346&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;available here&lt;/a&gt;) I worked on the star formation and chemical evolution history of the Small Magellanic Cloud using data from the Survey of the MAgellanic Stellar History (SMASH; &lt;a href=&#34;https://ui.adsabs.harvard.edu/abs/2021AJ....161...74N/abstract&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nidever+2021,&lt;/a&gt; including Sakowska). I focused on a peculiar shell-like structure in the northeastern part of the galaxy, crediting its formation to interactions with the neighbouring Large Magellanic Cloud (&lt;a href=&#34;https://ui.adsabs.harvard.edu/abs/2024MNRAS.532.4272S/abstract&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sakowska+ 2024&lt;/a&gt;).&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
