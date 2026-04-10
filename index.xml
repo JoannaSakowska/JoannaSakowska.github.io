@@ -13,6 +13,30 @@
     </image>
     
     <item>
+      <title>Andromeda XXXVI discovery of a new ultra-faint dwarf galaxy towards M31</title>
+      <link>https://joannasakowska.github.io/publication/sakowska_2026b/</link>
+      <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://joannasakowska.github.io/publication/sakowska_2026b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stellar streams around dwarf galaxies in the local Universe</title>
+      <link>https://joannasakowska.github.io/publication/sakowska_2026a/</link>
+      <pubDate>Fri, 27 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://joannasakowska.github.io/publication/sakowska_2026a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unveiling the purely young star formation history of the SMC&#39;s northeastern shell from colour-magnitude diagram fitting</title>
+      <link>https://joannasakowska.github.io/publication/sakowska_2024/</link>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://joannasakowska.github.io/publication/sakowska_2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Star Formation History of the Small Magellanic Cloud&#39;s &#39;Shell&#39; substructure (in prep)</title>
       <link>https://joannasakowska.github.io/draft/sakowska_2023_preprint/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
@@ -49,50 +73,52 @@
     </item>
     
     <item>
-      <title>The synchronized dance of the magellanic clouds&#39; star formation history</title>
-      <link>https://joannasakowska.github.io/publication/massana_2022/</link>
-      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://joannasakowska.github.io/publication/massana_2022/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature
-to enable visitors to import publication metadata into their reference
-management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt;
-button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Automatised search for low surface brightness galaxies</title>
-      <link>https://joannasakowska.github.io/project/lsbg/</link>
+      <title>Extragalactic stellar streams and dark matter</title>
+      <link>https://joannasakowska.github.io/project/streams/</link>
       <pubDate>Wed, 27 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>https://joannasakowska.github.io/project/lsbg/</guid>
-      <description>&lt;p&gt;During my 2 month stay at the Institute of Astrophysics of the Canary Islands, I developed a pipeline to automatically search for and measure low surface brightness galaxies in the Stripe82 SDSS survey images.&lt;/p&gt;
+      <guid>https://joannasakowska.github.io/project/streams/</guid>
+      <description>&lt;p&gt;Galaxies do not grow by themselves- they &amp;rsquo;eat&amp;rsquo; satellite galaxies and star clusters to grow, leaving behind long trails of stars called stellar streams. Hence, stellar streams preserve the archaeological record of merger events long after the original satellite has been completely disrupted. As their shapes, properties and abundance are sensitive to the distribution and nature of dark matter, we can also use stellar streams to learn about dark matter itself.&lt;/p&gt;
+&lt;p&gt;Although we now know of 150+ extragalactic stellar streams around massive galaxies (like our Milky Way, or Andromeda), we know only a handful of streams around the smallest &amp;lsquo;dwarf&amp;rsquo; galaxies. In &lt;a href=&#34;https://www.aanda.org/articles/aa/pdf/2026/03/aa58313-25.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sakowska+ 2026a&lt;/a&gt;, I discovered new streams and shells around these tiny galaxies, and provided one of the first statistical estimates of their frequency in the local Universe. My results placed constraints on hierarchical mass assembly of galaxies at tiny scales, and highlighted the difficulty of finding their streams.&lt;/p&gt;
+&lt;p&gt;I am also particularly interested in studying the accretion histories of massive galaxies. In &lt;a href=&#34;https://ui.adsabs.harvard.edu/abs/2025arXiv250914038M/abstract&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Martinez-Delgado+ 2026b&lt;/a&gt; we reconstructed the galaxy accretion event behind the massive shell of stars belonging to NGC 7531. Check out also &lt;a href=&#34;https://www.aanda.org/articles/aa/pdf/2026/03/aa58313-25.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Martinez-Delgado, Stein, Sakowska+ 2025&lt;/a&gt;, where we used amateur astrophotography to obtain ultra-deep images of spiral galaxies with streams, shedding light on never seen before features.&lt;/p&gt;
+&lt;p&gt;As part of my position at the IAA-CSIC, I am also working towards the adoption of the European Space Agency&amp;rsquo;s &lt;a href=&#34;https://www.arrakihs-mission.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ARRAKIHS&lt;/a&gt; mission! Launching 2030, ARRAKIHS will be a space telescope dedicated to the study of the stellar halos of massive galaxies (including stellar streams) to answering key questions in galaxy evolution and cosmology.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Satellite galaxies of the Magellanic Clouds with DELVE</title>
-      <link>https://joannasakowska.github.io/project/delvemc/</link>
+      <title>Public events</title>
+      <link>https://joannasakowska.github.io/media/outreach/</link>
       <pubDate>Wed, 27 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>https://joannasakowska.github.io/project/delvemc/</guid>
-      <description>&lt;p&gt;I am leading an automatised search for stellar overdensities within the DELVE-MC catalogue, which covers the entire Magellanic Clouds and their peripheries. This could result in the discovery of new ultra-faint dwarf galaxies or star clusters.&lt;/p&gt;
+      <guid>https://joannasakowska.github.io/media/outreach/</guid>
+      <description>&lt;p&gt;Coming soon!&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Star Formation History of the Small Magellanic Cloud galaxy</title>
+      <title>Selected media appearances</title>
+      <link>https://joannasakowska.github.io/media/media_appearances/</link>
+      <pubDate>Wed, 27 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://joannasakowska.github.io/media/media_appearances/</guid>
+      <description>&lt;p&gt;Coming soon!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Star Formation History of the Magellanic Cloud galaxies</title>
       <link>https://joannasakowska.github.io/project/sfh/</link>
       <pubDate>Wed, 27 Apr 2022 00:00:00 +0000</pubDate>
       <guid>https://joannasakowska.github.io/project/sfh/</guid>
-      <description>&lt;p&gt;I am working on the star formation history of the Small Magellanic Cloud galaxy using photometric data from the SMASH survey (Survey of the MAgellanic Stellar History).&lt;/p&gt;
+      <description>&lt;p&gt;Visible with the naked eye, the Magellanic Cloud galaxies are our closest pair of interacting dwarf galaxies. Thus, they constitute a unique opportunity to study galactic evolution in precious detail.&lt;/p&gt;
+&lt;p&gt;During my PhD thesis (&lt;a href=&#34;https://openresearch.surrey.ac.uk/esploro/outputs/doctoral/Tracing-the-Structure-and-Evolutionary-History/99918066602346&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;available here&lt;/a&gt;) I worked on the star formation and chemical evolution history of the Small Magellanic Cloud using data from the Survey of the MAgellanic Stellar History (SMASH; &lt;a href=&#34;https://ui.adsabs.harvard.edu/abs/2021AJ....161...74N/abstract&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nidever+2021,&lt;/a&gt; including Sakowska). I focused on a peculiar shell-like structure in the northeastern part of the galaxy, crediting its formation to interactions with the neighbouring Large Magellanic Cloud (&lt;a href=&#34;https://ui.adsabs.harvard.edu/abs/2024MNRAS.532.4272S/abstract&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sakowska+ 2024&lt;/a&gt;).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ultra-faint dwarf galaxies</title>
+      <link>https://joannasakowska.github.io/project/ufdgs/</link>
+      <pubDate>Wed, 27 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://joannasakowska.github.io/project/ufdgs/</guid>
+      <description>&lt;p&gt;Ultra-faint dwarf galaxies (UFDGs) are the smallest galaxies in our Universe. Full of dark matter, many have undergone little to no evolution since their formation in the early Universe, providing precious constraints on early galaxy formation. Yet, due to their ultra-faint nature, UFDGs can only be found within our Local Group.&lt;/p&gt;
+&lt;p&gt;In &lt;a href=&#34;https://ui.adsabs.harvard.edu/abs/2026arXiv260328492S/abstract&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sakowska+ 2026b&lt;/a&gt;, we report our discovery of Andromeda XXXVI! While this new UFDG adds to the 40+ known satellites surrounding Andromeda, simulations predict over 90+ to be present, highlighting that there is still much to be discovered.&lt;/p&gt;
 </description>
     </item>
     
@@ -189,38 +215,47 @@ button to check out the example.
       <link>https://joannasakowska.github.io/post/2020-12-01-r-rmarkdown/</link>
       <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
       <guid>https://joannasakowska.github.io/post/2020-12-01-r-rmarkdown/</guid>
-      <description>&lt;h1 id=&#34;r-markdown&#34;&gt;R Markdown&lt;/h1&gt;
-&lt;p&gt;This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see &lt;a href=&#34;http://rmarkdown.rstudio.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://rmarkdown.rstudio.com&lt;/a&gt;.&lt;/p&gt;
+      <description>
+
+
+&lt;div id=&#34;r-markdown&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;R Markdown&lt;/h1&gt;
+&lt;p&gt;This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see &lt;a href=&#34;http://rmarkdown.rstudio.com&#34; class=&#34;uri&#34;&gt;http://rmarkdown.rstudio.com&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;You can embed an R code chunk like this:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-r&#34; data-lang=&#34;r&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nf&#34;&gt;summary&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;cars&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;##      speed           dist       &lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;##  Min.   : 4.0   Min.   :  2.00  &lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;##  1st Qu.:12.0   1st Qu.: 26.00  &lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;##  Median :15.0   Median : 36.00  &lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;##  Mean   :15.4   Mean   : 42.98  &lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;##  3rd Qu.:19.0   3rd Qu.: 56.00  &lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;##  Max.   :25.0   Max.   :120.00&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;fit&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span class=&#34;nf&#34;&gt;lm&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;dist&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;~&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;speed&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;data&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;cars&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;fit&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;## &lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;## Call:&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;## lm(formula = dist ~ speed, data = cars)&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;## &lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;## Coefficients:&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;## (Intercept)        speed  &lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;##     -17.579        3.932&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h1 id=&#34;including-plots&#34;&gt;Including Plots&lt;/h1&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;summary(cars)
+##      speed           dist       
+##  Min.   : 4.0   Min.   :  2.00  
+##  1st Qu.:12.0   1st Qu.: 26.00  
+##  Median :15.0   Median : 36.00  
+##  Mean   :15.4   Mean   : 42.98  
+##  3rd Qu.:19.0   3rd Qu.: 56.00  
+##  Max.   :25.0   Max.   :120.00
+fit &amp;lt;- lm(dist ~ speed, data = cars)
+fit
+## 
+## Call:
+## lm(formula = dist ~ speed, data = cars)
+## 
+## Coefficients:
+## (Intercept)        speed  
+##     -17.579        3.932&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;div id=&#34;including-plots&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Including Plots&lt;/h1&gt;
 &lt;p&gt;You can also embed plots. See Figure &lt;a href=&#34;#fig:pie&#34;&gt;1&lt;/a&gt; for example:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-r&#34; data-lang=&#34;r&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nf&#34;&gt;par&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;mar&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;nf&#34;&gt;c&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;m&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;))&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nf&#34;&gt;pie&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;nf&#34;&gt;c&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;280&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;m&#34;&gt;60&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;m&#34;&gt;20&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;),&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;nf&#34;&gt;c&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#39;Sky&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;s&#34;&gt;&amp;#39;Sunny side of pyramid&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;s&#34;&gt;&amp;#39;Shady side of pyramid&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;),&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;n&#34;&gt;col&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;nf&#34;&gt;c&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#39;#0292D8&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;s&#34;&gt;&amp;#39;#F7EA39&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;s&#34;&gt;&amp;#39;#C4B632&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;),&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;n&#34;&gt;init.angle&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;m&#34;&gt;-50&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;border&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;kc&#34;&gt;NA&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;figure&#34;&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;par(mar = c(0, 1, 0, 1))
+pie(
+  c(280, 60, 20),
+  c(&amp;#39;Sky&amp;#39;, &amp;#39;Sunny side of pyramid&amp;#39;, &amp;#39;Shady side of pyramid&amp;#39;),
+  col = c(&amp;#39;#0292D8&amp;#39;, &amp;#39;#F7EA39&amp;#39;, &amp;#39;#C4B632&amp;#39;),
+  init.angle = -50, border = NA
+)&lt;/code&gt;&lt;/pre&gt;
+&lt;div class=&#34;figure&#34;&gt;&lt;span style=&#34;display:block;&#34; id=&#34;fig:pie&#34;&gt;&lt;/span&gt;
 &lt;img src=&#34;https://joannasakowska.github.io/post/2020-12-01-r-rmarkdown/index.en_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
-&lt;p class=&#34;caption&#34;&gt;Figure 1: A fancy pie chart.&lt;/p&gt;
+&lt;p class=&#34;caption&#34;&gt;
+Figure 1: A fancy pie chart.
+&lt;/p&gt;
+&lt;/div&gt;
 &lt;/div&gt;
 </description>
     </item>

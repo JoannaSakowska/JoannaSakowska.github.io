@@ -5,7 +5,7 @@
     <link>https://joannasakowska.github.io/publication/</link>
       <atom:link href="https://joannasakowska.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 30 Mar 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://joannasakowska.github.io/media/icon_hude20de9661a447c1e887f7aaef88854c_11184_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
@@ -13,21 +13,27 @@
     </image>
     
     <item>
-      <title>The synchronized dance of the magellanic clouds&#39; star formation history</title>
-      <link>https://joannasakowska.github.io/publication/massana_2022/</link>
-      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://joannasakowska.github.io/publication/massana_2022/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt;
-button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-</description>
+      <title>Andromeda XXXVI discovery of a new ultra-faint dwarf galaxy towards M31</title>
+      <link>https://joannasakowska.github.io/publication/sakowska_2026b/</link>
+      <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://joannasakowska.github.io/publication/sakowska_2026b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stellar streams around dwarf galaxies in the local Universe</title>
+      <link>https://joannasakowska.github.io/publication/sakowska_2026a/</link>
+      <pubDate>Fri, 27 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://joannasakowska.github.io/publication/sakowska_2026a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unveiling the purely young star formation history of the SMC&#39;s northeastern shell from colour-magnitude diagram fitting</title>
+      <link>https://joannasakowska.github.io/publication/sakowska_2024/</link>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://joannasakowska.github.io/publication/sakowska_2024/</guid>
+      <description></description>
     </item>
     
   </channel>

@@ -13,29 +13,34 @@
     </image>
     
     <item>
-      <title>Automatised search for low surface brightness galaxies</title>
-      <link>https://joannasakowska.github.io/project/lsbg/</link>
+      <title>Extragalactic stellar streams and dark matter</title>
+      <link>https://joannasakowska.github.io/project/streams/</link>
       <pubDate>Wed, 27 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>https://joannasakowska.github.io/project/lsbg/</guid>
-      <description>&lt;p&gt;During my 2 month stay at the Institute of Astrophysics of the Canary Islands, I developed a pipeline to automatically search for and measure low surface brightness galaxies in the Stripe82 SDSS survey images.&lt;/p&gt;
+      <guid>https://joannasakowska.github.io/project/streams/</guid>
+      <description>&lt;p&gt;Galaxies do not grow by themselves- they &amp;rsquo;eat&amp;rsquo; satellite galaxies and star clusters to grow, leaving behind long trails of stars called stellar streams. Hence, stellar streams preserve the archaeological record of merger events long after the original satellite has been completely disrupted. As their shapes, properties and abundance are sensitive to the distribution and nature of dark matter, we can also use stellar streams to learn about dark matter itself.&lt;/p&gt;
+&lt;p&gt;Although we now know of 150+ extragalactic stellar streams around massive galaxies (like our Milky Way, or Andromeda), we know only a handful of streams around the smallest &amp;lsquo;dwarf&amp;rsquo; galaxies. In &lt;a href=&#34;https://www.aanda.org/articles/aa/pdf/2026/03/aa58313-25.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sakowska+ 2026a&lt;/a&gt;, I discovered new streams and shells around these tiny galaxies, and provided one of the first statistical estimates of their frequency in the local Universe. My results placed constraints on hierarchical mass assembly of galaxies at tiny scales, and highlighted the difficulty of finding their streams.&lt;/p&gt;
+&lt;p&gt;I am also particularly interested in studying the accretion histories of massive galaxies. In &lt;a href=&#34;https://ui.adsabs.harvard.edu/abs/2025arXiv250914038M/abstract&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Martinez-Delgado+ 2026b&lt;/a&gt; we reconstructed the galaxy accretion event behind the massive shell of stars belonging to NGC 7531. Check out also &lt;a href=&#34;https://www.aanda.org/articles/aa/pdf/2026/03/aa58313-25.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Martinez-Delgado, Stein, Sakowska+ 2025&lt;/a&gt;, where we used amateur astrophotography to obtain ultra-deep images of spiral galaxies with streams, shedding light on never seen before features.&lt;/p&gt;
+&lt;p&gt;As part of my position at the IAA-CSIC, I am also working towards the adoption of the European Space Agency&amp;rsquo;s &lt;a href=&#34;https://www.arrakihs-mission.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ARRAKIHS&lt;/a&gt; mission! Launching 2030, ARRAKIHS will be a space telescope dedicated to the study of the stellar halos of massive galaxies (including stellar streams) to answering key questions in galaxy evolution and cosmology.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Satellite galaxies of the Magellanic Clouds with DELVE</title>
-      <link>https://joannasakowska.github.io/project/delvemc/</link>
-      <pubDate>Wed, 27 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>https://joannasakowska.github.io/project/delvemc/</guid>
-      <description>&lt;p&gt;I am leading an automatised search for stellar overdensities within the DELVE-MC catalogue, which covers the entire Magellanic Clouds and their peripheries. This could result in the discovery of new ultra-faint dwarf galaxies or star clusters.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Star Formation History of the Small Magellanic Cloud galaxy</title>
+      <title>Star Formation History of the Magellanic Cloud galaxies</title>
       <link>https://joannasakowska.github.io/project/sfh/</link>
       <pubDate>Wed, 27 Apr 2022 00:00:00 +0000</pubDate>
       <guid>https://joannasakowska.github.io/project/sfh/</guid>
-      <description>&lt;p&gt;I am working on the star formation history of the Small Magellanic Cloud galaxy using photometric data from the SMASH survey (Survey of the MAgellanic Stellar History).&lt;/p&gt;
+      <description>&lt;p&gt;Visible with the naked eye, the Magellanic Cloud galaxies are our closest pair of interacting dwarf galaxies. Thus, they constitute a unique opportunity to study galactic evolution in precious detail.&lt;/p&gt;
+&lt;p&gt;During my PhD thesis (&lt;a href=&#34;https://openresearch.surrey.ac.uk/esploro/outputs/doctoral/Tracing-the-Structure-and-Evolutionary-History/99918066602346&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;available here&lt;/a&gt;) I worked on the star formation and chemical evolution history of the Small Magellanic Cloud using data from the Survey of the MAgellanic Stellar History (SMASH; &lt;a href=&#34;https://ui.adsabs.harvard.edu/abs/2021AJ....161...74N/abstract&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nidever+2021,&lt;/a&gt; including Sakowska). I focused on a peculiar shell-like structure in the northeastern part of the galaxy, crediting its formation to interactions with the neighbouring Large Magellanic Cloud (&lt;a href=&#34;https://ui.adsabs.harvard.edu/abs/2024MNRAS.532.4272S/abstract&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sakowska+ 2024&lt;/a&gt;).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ultra-faint dwarf galaxies</title>
+      <link>https://joannasakowska.github.io/project/ufdgs/</link>
+      <pubDate>Wed, 27 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://joannasakowska.github.io/project/ufdgs/</guid>
+      <description>&lt;p&gt;Ultra-faint dwarf galaxies (UFDGs) are the smallest galaxies in our Universe. Full of dark matter, many have undergone little to no evolution since their formation in the early Universe, providing precious constraints on early galaxy formation. Yet, due to their ultra-faint nature, UFDGs can only be found within our Local Group.&lt;/p&gt;
+&lt;p&gt;In &lt;a href=&#34;https://ui.adsabs.harvard.edu/abs/2026arXiv260328492S/abstract&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sakowska+ 2026b&lt;/a&gt;, we report our discovery of Andromeda XXXVI! While this new UFDG adds to the 40+ known satellites surrounding Andromeda, simulations predict over 90+ to be present, highlighting that there is still much to be discovered.&lt;/p&gt;
 </description>
     </item>
     

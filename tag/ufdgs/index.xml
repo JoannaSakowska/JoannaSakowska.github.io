@@ -5,7 +5,7 @@
     <link>https://joannasakowska.github.io/tag/ufdgs/</link>
       <atom:link href="https://joannasakowska.github.io/tag/ufdgs/index.xml" rel="self" type="application/rss+xml" />
     <description>UFDGs</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 30 Mar 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://joannasakowska.github.io/media/icon_hude20de9661a447c1e887f7aaef88854c_11184_512x512_fill_lanczos_center_3.png</url>
       <title>UFDGs</title>
@@ -13,11 +13,20 @@
     </image>
     
     <item>
-      <title>Satellite galaxies of the Magellanic Clouds with DELVE</title>
-      <link>https://joannasakowska.github.io/project/delvemc/</link>
+      <title>Andromeda XXXVI discovery of a new ultra-faint dwarf galaxy towards M31</title>
+      <link>https://joannasakowska.github.io/publication/sakowska_2026b/</link>
+      <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://joannasakowska.github.io/publication/sakowska_2026b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ultra-faint dwarf galaxies</title>
+      <link>https://joannasakowska.github.io/project/ufdgs/</link>
       <pubDate>Wed, 27 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>https://joannasakowska.github.io/project/delvemc/</guid>
-      <description>&lt;p&gt;I am leading an automatised search for stellar overdensities within the DELVE-MC catalogue, which covers the entire Magellanic Clouds and their peripheries. This could result in the discovery of new ultra-faint dwarf galaxies or star clusters.&lt;/p&gt;
+      <guid>https://joannasakowska.github.io/project/ufdgs/</guid>
+      <description>&lt;p&gt;Ultra-faint dwarf galaxies (UFDGs) are the smallest galaxies in our Universe. Full of dark matter, many have undergone little to no evolution since their formation in the early Universe, providing precious constraints on early galaxy formation. Yet, due to their ultra-faint nature, UFDGs can only be found within our Local Group.&lt;/p&gt;
+&lt;p&gt;In &lt;a href=&#34;https://ui.adsabs.harvard.edu/abs/2026arXiv260328492S/abstract&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sakowska+ 2026b&lt;/a&gt;, we report our discovery of Andromeda XXXVI! While this new UFDG adds to the 40+ known satellites surrounding Andromeda, simulations predict over 90+ to be present, highlighting that there is still much to be discovered.&lt;/p&gt;
 </description>
     </item>
     
