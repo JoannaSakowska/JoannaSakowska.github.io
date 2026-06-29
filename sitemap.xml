@@ -2,6 +2,58 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://joannasakowska.github.io/</loc>
+    <lastmod>2026-06-29T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://joannasakowska.github.io/project/streams/</loc>
+    <lastmod>2026-06-29T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://joannasakowska.github.io/project/</loc>
+    <lastmod>2026-06-29T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://joannasakowska.github.io/tag/star-formation-histories/</loc>
+    <lastmod>2026-06-29T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://joannasakowska.github.io/project/sfh/</loc>
+    <lastmod>2026-06-29T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://joannasakowska.github.io/tag/stellar-streams/</loc>
+    <lastmod>2026-06-29T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://joannasakowska.github.io/tags/</loc>
+    <lastmod>2026-06-29T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://joannasakowska.github.io/tag/ufdgs/</loc>
+    <lastmod>2026-06-29T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://joannasakowska.github.io/project/ufdgs/</loc>
+    <lastmod>2026-06-29T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://joannasakowska.github.io/media/iflscience/</loc>
+    <lastmod>2026-04-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://joannasakowska.github.io/media/physorg/</loc>
+    <lastmod>2026-04-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://joannasakowska.github.io/tag/media/</loc>
+    <lastmod>2026-04-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://joannasakowska.github.io/media/</loc>
+    <lastmod>2026-04-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://joannasakowska.github.io/publication-type/2/</loc>
     <lastmod>2026-03-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -18,48 +70,12 @@
     <lastmod>2026-03-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://joannasakowska.github.io/tags/</loc>
-    <lastmod>2026-03-30T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://joannasakowska.github.io/tag/ufdgs/</loc>
-    <lastmod>2026-03-30T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://joannasakowska.github.io/tag/stellar-streams/</loc>
-    <lastmod>2026-02-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://joannasakowska.github.io/publication/sakowska_2026a/</loc>
     <lastmod>2026-02-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://joannasakowska.github.io/tag/star-formation-histories/</loc>
-    <lastmod>2024-08-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://joannasakowska.github.io/publication/sakowska_2024/</loc>
     <lastmod>2024-08-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://joannasakowska.github.io/publication-type/3/</loc>
-    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://joannasakowska.github.io/draft/</loc>
-    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://joannasakowska.github.io/tag/source-themes/</loc>
-    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://joannasakowska.github.io/draft/sakowska_2023_preprint/</loc>
-    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://joannasakowska.github.io/</loc>
-    <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://joannasakowska.github.io/event/</loc>
@@ -72,42 +88,6 @@
   </url><url>
     <loc>https://joannasakowska.github.io/talk/the-magellanic-clouds-galactic-cannibalism-on-our-night-sky/</loc>
     <lastmod>2022-06-23T13:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://joannasakowska.github.io/project/streams/</loc>
-    <lastmod>2022-04-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://joannasakowska.github.io/tag/media/</loc>
-    <lastmod>2022-04-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://joannasakowska.github.io/media/</loc>
-    <lastmod>2022-04-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://joannasakowska.github.io/tag/outreach/</loc>
-    <lastmod>2022-04-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://joannasakowska.github.io/project/</loc>
-    <lastmod>2022-04-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://joannasakowska.github.io/media/outreach/</loc>
-    <lastmod>2022-04-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://joannasakowska.github.io/media/media_appearances/</loc>
-    <lastmod>2022-04-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://joannasakowska.github.io/project/sfh/</loc>
-    <lastmod>2022-04-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://joannasakowska.github.io/project/ufdgs/</loc>
-    <lastmod>2022-04-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://joannasakowska.github.io/talk/star-formation-history-of-the-3d-small-magellanic-cloud/</loc>

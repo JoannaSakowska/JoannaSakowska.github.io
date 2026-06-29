@@ -5,7 +5,7 @@
     <link>https://joannasakowska.github.io/tag/media/</link>
       <atom:link href="https://joannasakowska.github.io/tag/media/index.xml" rel="self" type="application/rss+xml" />
     <description>media</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 07 Apr 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://joannasakowska.github.io/media/icon_hude20de9661a447c1e887f7aaef88854c_11184_512x512_fill_lanczos_center_3.png</url>
       <title>media</title>
@@ -13,12 +13,19 @@
     </image>
     
     <item>
-      <title>Selected media appearances</title>
-      <link>https://joannasakowska.github.io/media/media_appearances/</link>
-      <pubDate>Wed, 27 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>https://joannasakowska.github.io/media/media_appearances/</guid>
-      <description>&lt;p&gt;Coming soon!&lt;/p&gt;
-</description>
+      <title>Amateur astronomer helps discover tiny star group at the limit of what we consider a galaxy</title>
+      <link>https://joannasakowska.github.io/media/iflscience/</link>
+      <pubDate>Tue, 07 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://joannasakowska.github.io/media/iflscience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Astronomers discover Andromeda XXXVI, an ultra-faint dwarf satellite galaxy</title>
+      <link>https://joannasakowska.github.io/media/physorg/</link>
+      <pubDate>Tue, 07 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://joannasakowska.github.io/media/physorg/</guid>
+      <description></description>
     </item>
     
   </channel>

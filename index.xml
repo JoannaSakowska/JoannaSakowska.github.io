@@ -5,12 +5,60 @@
     <link>https://joannasakowska.github.io/</link>
       <atom:link href="https://joannasakowska.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Joanna Sakowska</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 29 Jun 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://joannasakowska.github.io/media/icon_hude20de9661a447c1e887f7aaef88854c_11184_512x512_fill_lanczos_center_3.png</url>
       <title>Joanna Sakowska</title>
       <link>https://joannasakowska.github.io/</link>
     </image>
+    
+    <item>
+      <title>Extragalactic stellar streams and dark matter</title>
+      <link>https://joannasakowska.github.io/project/streams/</link>
+      <pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://joannasakowska.github.io/project/streams/</guid>
+      <description>&lt;p&gt;Galaxies do not grow by themselves- they &amp;rsquo;eat&amp;rsquo; satellite galaxies and star clusters to grow, leaving behind long trails of stars called stellar streams. Hence, stellar streams preserve the archaeological record of merger events long after the original satellite has been completely disrupted. As their shapes, properties and abundance are sensitive to the distribution and nature of dark matter, we can also use stellar streams to learn about dark matter itself.&lt;/p&gt;
+&lt;p&gt;Although we now know of 150+ extragalactic stellar streams around massive galaxies (like our Milky Way, or Andromeda), we know only a handful of streams around the smallest &amp;lsquo;dwarf&amp;rsquo; galaxies. In &lt;a href=&#34;https://www.aanda.org/articles/aa/pdf/2026/03/aa58313-25.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sakowska+ 2026a&lt;/a&gt;, I discovered new streams and shells around these tiny galaxies, and provided one of the first statistical estimates of their frequency in the local Universe. My results placed constraints on hierarchical mass assembly of galaxies at tiny scales, and highlighted the difficulty of finding their streams.&lt;/p&gt;
+&lt;p&gt;I am also particularly interested in studying the accretion histories of massive galaxies. In &lt;a href=&#34;https://ui.adsabs.harvard.edu/abs/2025arXiv250914038M/abstract&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Martinez-Delgado+ 2026b&lt;/a&gt; we reconstructed the galaxy accretion event behind the massive shell of stars belonging to NGC 7531. Check out also &lt;a href=&#34;https://www.aanda.org/articles/aa/pdf/2026/03/aa58313-25.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Martinez-Delgado, Stein, Sakowska+ 2025&lt;/a&gt;, where we used amateur astrophotography to obtain ultra-deep images of spiral galaxies with streams, shedding light on never seen before features.&lt;/p&gt;
+&lt;p&gt;As part of my position at the IAA-CSIC, I am also working towards the adoption of the European Space Agency&amp;rsquo;s &lt;a href=&#34;https://www.arrakihs-mission.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ARRAKIHS&lt;/a&gt; mission! Launching 2030, ARRAKIHS will be a space telescope dedicated to the study of the stellar halos of massive galaxies (including stellar streams) to answering key questions in galaxy evolution and cosmology.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Star Formation History of the Magellanic Cloud galaxies</title>
+      <link>https://joannasakowska.github.io/project/sfh/</link>
+      <pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://joannasakowska.github.io/project/sfh/</guid>
+      <description>&lt;p&gt;Visible with the naked eye, the Magellanic Cloud galaxies are our closest pair of interacting dwarf galaxies. Thus, they constitute a unique opportunity to study galactic evolution in precious detail.&lt;/p&gt;
+&lt;p&gt;During my PhD thesis (&lt;a href=&#34;https://openresearch.surrey.ac.uk/esploro/outputs/doctoral/Tracing-the-Structure-and-Evolutionary-History/99918066602346&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;available here&lt;/a&gt;) I worked on the star formation and chemical evolution history of the Small Magellanic Cloud using data from the Survey of the MAgellanic Stellar History (SMASH; &lt;a href=&#34;https://ui.adsabs.harvard.edu/abs/2021AJ....161...74N/abstract&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nidever+2021,&lt;/a&gt; including Sakowska). I focused on a peculiar shell-like structure in the northeastern part of the galaxy, crediting its formation to interactions with the neighbouring Large Magellanic Cloud (&lt;a href=&#34;https://ui.adsabs.harvard.edu/abs/2024MNRAS.532.4272S/abstract&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sakowska+ 2024&lt;/a&gt;).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ultra-faint dwarf galaxies</title>
+      <link>https://joannasakowska.github.io/project/ufdgs/</link>
+      <pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://joannasakowska.github.io/project/ufdgs/</guid>
+      <description>&lt;p&gt;Ultra-faint dwarf galaxies (UFDGs) are the smallest galaxies in our Universe. Full of dark matter, many have undergone little to no evolution since their formation in the early Universe, providing precious constraints on early galaxy formation. Yet, due to their ultra-faint nature, UFDGs can only be found within our Local Group.&lt;/p&gt;
+&lt;p&gt;In &lt;a href=&#34;https://ui.adsabs.harvard.edu/abs/2026arXiv260328492S/abstract&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sakowska+ 2026b&lt;/a&gt;, we report our discovery of Andromeda XXXVI! While this new UFDG adds to the 40+ known satellites surrounding Andromeda, simulations predict over 90+ to be present, highlighting that there is still much to be discovered.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Amateur astronomer helps discover tiny star group at the limit of what we consider a galaxy</title>
+      <link>https://joannasakowska.github.io/media/iflscience/</link>
+      <pubDate>Tue, 07 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://joannasakowska.github.io/media/iflscience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Astronomers discover Andromeda XXXVI, an ultra-faint dwarf satellite galaxy</title>
+      <link>https://joannasakowska.github.io/media/physorg/</link>
+      <pubDate>Tue, 07 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://joannasakowska.github.io/media/physorg/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Andromeda XXXVI discovery of a new ultra-faint dwarf galaxy towards M31</title>
@@ -33,14 +81,6 @@
       <link>https://joannasakowska.github.io/publication/sakowska_2024/</link>
       <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
       <guid>https://joannasakowska.github.io/publication/sakowska_2024/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Star Formation History of the Small Magellanic Cloud&#39;s &#39;Shell&#39; substructure (in prep)</title>
-      <link>https://joannasakowska.github.io/draft/sakowska_2023_preprint/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://joannasakowska.github.io/draft/sakowska_2023_preprint/</guid>
       <description></description>
     </item>
     
@@ -70,56 +110,6 @@
       <pubDate>Thu, 23 Jun 2022 13:00:00 +0000</pubDate>
       <guid>https://joannasakowska.github.io/talk/the-magellanic-clouds-galactic-cannibalism-on-our-night-sky/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Extragalactic stellar streams and dark matter</title>
-      <link>https://joannasakowska.github.io/project/streams/</link>
-      <pubDate>Wed, 27 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>https://joannasakowska.github.io/project/streams/</guid>
-      <description>&lt;p&gt;Galaxies do not grow by themselves- they &amp;rsquo;eat&amp;rsquo; satellite galaxies and star clusters to grow, leaving behind long trails of stars called stellar streams. Hence, stellar streams preserve the archaeological record of merger events long after the original satellite has been completely disrupted. As their shapes, properties and abundance are sensitive to the distribution and nature of dark matter, we can also use stellar streams to learn about dark matter itself.&lt;/p&gt;
-&lt;p&gt;Although we now know of 150+ extragalactic stellar streams around massive galaxies (like our Milky Way, or Andromeda), we know only a handful of streams around the smallest &amp;lsquo;dwarf&amp;rsquo; galaxies. In &lt;a href=&#34;https://www.aanda.org/articles/aa/pdf/2026/03/aa58313-25.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sakowska+ 2026a&lt;/a&gt;, I discovered new streams and shells around these tiny galaxies, and provided one of the first statistical estimates of their frequency in the local Universe. My results placed constraints on hierarchical mass assembly of galaxies at tiny scales, and highlighted the difficulty of finding their streams.&lt;/p&gt;
-&lt;p&gt;I am also particularly interested in studying the accretion histories of massive galaxies. In &lt;a href=&#34;https://ui.adsabs.harvard.edu/abs/2025arXiv250914038M/abstract&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Martinez-Delgado+ 2026b&lt;/a&gt; we reconstructed the galaxy accretion event behind the massive shell of stars belonging to NGC 7531. Check out also &lt;a href=&#34;https://www.aanda.org/articles/aa/pdf/2026/03/aa58313-25.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Martinez-Delgado, Stein, Sakowska+ 2025&lt;/a&gt;, where we used amateur astrophotography to obtain ultra-deep images of spiral galaxies with streams, shedding light on never seen before features.&lt;/p&gt;
-&lt;p&gt;As part of my position at the IAA-CSIC, I am also working towards the adoption of the European Space Agency&amp;rsquo;s &lt;a href=&#34;https://www.arrakihs-mission.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ARRAKIHS&lt;/a&gt; mission! Launching 2030, ARRAKIHS will be a space telescope dedicated to the study of the stellar halos of massive galaxies (including stellar streams) to answering key questions in galaxy evolution and cosmology.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Public events</title>
-      <link>https://joannasakowska.github.io/media/outreach/</link>
-      <pubDate>Wed, 27 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>https://joannasakowska.github.io/media/outreach/</guid>
-      <description>&lt;p&gt;Coming soon!&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Selected media appearances</title>
-      <link>https://joannasakowska.github.io/media/media_appearances/</link>
-      <pubDate>Wed, 27 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>https://joannasakowska.github.io/media/media_appearances/</guid>
-      <description>&lt;p&gt;Coming soon!&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Star Formation History of the Magellanic Cloud galaxies</title>
-      <link>https://joannasakowska.github.io/project/sfh/</link>
-      <pubDate>Wed, 27 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>https://joannasakowska.github.io/project/sfh/</guid>
-      <description>&lt;p&gt;Visible with the naked eye, the Magellanic Cloud galaxies are our closest pair of interacting dwarf galaxies. Thus, they constitute a unique opportunity to study galactic evolution in precious detail.&lt;/p&gt;
-&lt;p&gt;During my PhD thesis (&lt;a href=&#34;https://openresearch.surrey.ac.uk/esploro/outputs/doctoral/Tracing-the-Structure-and-Evolutionary-History/99918066602346&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;available here&lt;/a&gt;) I worked on the star formation and chemical evolution history of the Small Magellanic Cloud using data from the Survey of the MAgellanic Stellar History (SMASH; &lt;a href=&#34;https://ui.adsabs.harvard.edu/abs/2021AJ....161...74N/abstract&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nidever+2021,&lt;/a&gt; including Sakowska). I focused on a peculiar shell-like structure in the northeastern part of the galaxy, crediting its formation to interactions with the neighbouring Large Magellanic Cloud (&lt;a href=&#34;https://ui.adsabs.harvard.edu/abs/2024MNRAS.532.4272S/abstract&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sakowska+ 2024&lt;/a&gt;).&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Ultra-faint dwarf galaxies</title>
-      <link>https://joannasakowska.github.io/project/ufdgs/</link>
-      <pubDate>Wed, 27 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>https://joannasakowska.github.io/project/ufdgs/</guid>
-      <description>&lt;p&gt;Ultra-faint dwarf galaxies (UFDGs) are the smallest galaxies in our Universe. Full of dark matter, many have undergone little to no evolution since their formation in the early Universe, providing precious constraints on early galaxy formation. Yet, due to their ultra-faint nature, UFDGs can only be found within our Local Group.&lt;/p&gt;
-&lt;p&gt;In &lt;a href=&#34;https://ui.adsabs.harvard.edu/abs/2026arXiv260328492S/abstract&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sakowska+ 2026b&lt;/a&gt;, we report our discovery of Andromeda XXXVI! While this new UFDG adds to the 40+ known satellites surrounding Andromeda, simulations predict over 90+ to be present, highlighting that there is still much to be discovered.&lt;/p&gt;
-</description>
     </item>
     
     <item>
